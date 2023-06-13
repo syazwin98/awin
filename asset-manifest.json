@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/awin/static/css/main.25f09965.css",
+    "main.js": "/awin/static/js/main.235d638a.js",
+    "static/js/787.dd4029b4.chunk.js": "/awin/static/js/787.dd4029b4.chunk.js",
+    "static/media/bg-shape.png": "/awin/static/media/bg-shape.4ad537d3e88016d6a7fd.png",
+    "static/media/bg-black.jpg": "/awin/static/media/bg-black.afed8a0cd2a88cdc521f.jpg",
+    "index.html": "/awin/index.html",
+    "main.25f09965.css.map": "/awin/static/css/main.25f09965.css.map",
+    "main.235d638a.js.map": "/awin/static/js/main.235d638a.js.map",
+    "787.dd4029b4.chunk.js.map": "/awin/static/js/787.dd4029b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25f09965.css",
+    "static/js/main.235d638a.js"
+  ]
+}
